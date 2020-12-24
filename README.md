@@ -6,6 +6,24 @@
 
 ##  Demo for currency converstion not realy focusing on business more that how things going on in VIPER
 
+
+
+
+Welcome back with one of most known Structural design pattern (VIPER).
+
+OR some people called it VIPER  Architecture, but we will discuss it later.
+
+(Architecture & Structural design pattern).
+
+And how write unit test for it, Demo testing Presenter and Interactor  for Home Screen.
+And mocking another layer and Spy View.
+
+we will take in details later.
+
+This small demo for screen Just showing how things going on, It be better to learn things in small demo then you can expand them.
+
+
+
 1- for Unit test I'm only added testing files for  (Home presenter, home  interactor) only.
 
 So if you calculate percentage of this file, i guess it will be about 95%
