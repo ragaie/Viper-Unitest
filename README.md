@@ -1,6 +1,6 @@
 # This is just real demo for VIPER && UnitTest:-
 
-## There is many another layer just for supporting demo app not compitable with real app.
+## There is many another layer just for supporting demo app not compatiable with real app will need more modification
 
 ## All comuncation between layers done throw protocol.
 
@@ -35,3 +35,11 @@ So dependancies handling not pretty one in this task.
 # Have good time in cheecking it.
 
 # Thanks.
+
+
+## Author
+
+* **Ragaie alfy Fahmey**  - [ragaie](https://github.com/ragaie)
+
+## You can find me in linked in:- 
+- [Ragaie alfy](www.linkedin.com/in/ragaie-alfy)
